@@ -1,9 +1,7 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yaroslav+%F0%9F%91%8B;WCS+Specialist ;Embedded+Systems+Hobbyist;Making+machines+talk+%E2%80%94+professionally+%26+for+fun" alt="Typing SVG" />
-
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yaroslav+%F0%9F%91%8B;WCS+Specialist;Embedded+Systems+Hobbyist;Making+machines+talk+%E2%80%94+professionally+%26+for+fun" alt="Typing SVG" />
+</p>
 ---
 
 ## 🧑‍🔧 About Me
