@@ -44,7 +44,7 @@ MicroPython ✅  ──►  C++ · Arduino ⚡  ──►  FreeRTOS · ESP-IDF  
 
 ![M5GFX](https://img.shields.io/badge/M5GFX-FF6B35?style=for-the-badge&logoColor=white)
 
-**Hardware & IoT**
+**Hardware & Embedded**
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![M5Stack](https://img.shields.io/badge/M5Stack-FF6B35?style=for-the-badge&logoColor=white)
