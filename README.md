@@ -6,7 +6,7 @@
 
 ## 🧑‍🔧 About Me
 
-By day I make warehouse robots and conveyors talk to each other — WCS/PLC, WAMAS, Siemens, Libiao Robotics.  
+By day I make warehouse robots and conveyors talk to each other — WCS/PLC, SCADA, Siemens, Libiao Robotics.  
 By night I learn to talk to the hardware myself.
 
 🎯 **Mission:** Master the full embedded stack — hardware → firmware → UI → mesh networking  
@@ -55,7 +55,7 @@ MicroPython ✅  ──►  C++ · Arduino ⚡  ──►  FreeRTOS · ESP-IDF  
 **Professional Domain**
 
 ![WCS/PLC](https://img.shields.io/badge/WCS%2FPLC-003366?style=for-the-badge&logoColor=white)
-![WAMAS](https://img.shields.io/badge/WAMAS-0066CC?style=for-the-badge&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA-0066CC?style=for-the-badge&logoColor=white)
 ![OPC-UA](https://img.shields.io/badge/OPC--UA-009900?style=for-the-badge&logoColor=white)
 ![Modbus](https://img.shields.io/badge/Modbus-B05000?style=for-the-badge&logoColor=white)
 
